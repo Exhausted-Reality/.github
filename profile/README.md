@@ -8,7 +8,7 @@
   * [OTCV for iPhone](https://apps.apple.com/ru/app/otcv-for-iphone/id461404180?l=en)
 * IBS
   * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit)
-  * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
+  * [IBSKit Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
   * [IBSKit Article](https://habr.com/ru/company/ibs/blog/712162/)
 * Victa
   * [Victa: Fitness Adventure](https://apps.apple.com/ru/app/victa-fitness-adventure/id6443617052?l=en)
