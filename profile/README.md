@@ -6,6 +6,8 @@
 * ALE International
   * [ALE Rainbow](https://apps.apple.com/ru/app/ale-rainbow/id1053514112?l=en)
   * [OTCV for iPhone](https://apps.apple.com/ru/app/otcv-for-iphone/id461404180?l=en)
+* Exhausted Reality
+  * [ProjectZer0](https://github.com/Exhausted-Reality/ProjectZer0)
 * IBS
   * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit)
   * [IBSKit Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
