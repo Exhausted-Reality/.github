@@ -1,12 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m @shakendev
 
-<!--
+ I’m an **experienced iOS Developer**: started from iOS 9 - and I'm still in!
 
-**Here are some ideas to get you started:**
+👔 I worked on many projects for well-known and not so well-known companies:
+* ALE International
+  * [ALE Rainbow](https://apps.apple.com/ru/app/ale-rainbow/id1053514112?l=en)
+  * [OTCV for iPhone](https://apps.apple.com/ru/app/otcv-for-iphone/id461404180?l=en)
+* IBS
+  * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit)
+  * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
+  * [IBSKit Article](https://habr.com/ru/company/ibs/blog/712162/)
+* Victa
+  * [Victa: Fitness Adventure](https://apps.apple.com/ru/app/victa-fitness-adventure/id6443617052?l=en)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌃 I appreciate attention to detail in any thing when developing a mobile application, from UI · UX design to an architectural approach and application design patterns.
+
+💻 In my spare time, I develop a game engine on Metal API and Swift.
+
+💬 You can find me on Telegram [@d1mk4_22](https://t.me/d1mk4_22)
