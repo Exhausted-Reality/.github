@@ -12,7 +12,7 @@
   * [IBSKit](https://github.com/IBS-Mobile-iOS/IBSKit)
   * [IBSKit Sources](https://github.com/IBS-Mobile-iOS/IBSKit-Sources)
   * [IBSKit Article](https://habr.com/ru/company/ibs/blog/712162/)
-* Victa
+* Victa LLC
   * [Victa: Fitness Adventure](https://apps.apple.com/ru/app/victa-fitness-adventure/id6443617052?l=en)
 
 🌃 I appreciate attention to detail in any thing when developing a mobile application, from UI · UX design to an architectural approach and application design patterns.
